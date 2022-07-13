@@ -38,4 +38,4 @@ Run npm install on your command line.
 ## Usage
 Navigate to the project directory cd netflix-clone-reactjs, and run npm start. 
 
-:pushpin: <a href="https://github.com/rabinapradhan">Github Profile</>
+:pushpin: <a href="https://github.com/rabinapradhan">Github Profile
