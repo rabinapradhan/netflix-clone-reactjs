@@ -22,8 +22,9 @@
 <li>    "react-scripts": "5.0.1",</li>
 <li> "web-vitals": "^2.1.4" </li>
  </ul>
- }
- 
+
+[Netflix Clone App.webm](https://user-images.githubusercontent.com/105667500/178769228-53ae29b5-a75f-42ae-bc83-95df9501aad7.webm)
+
 # Getting Started
 
 ## Prerequisites
